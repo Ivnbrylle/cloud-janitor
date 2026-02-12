@@ -2,3 +2,7 @@
 
 lambda_function.zip
 output.json
+
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
